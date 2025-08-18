@@ -88,4 +88,5 @@ console.log(`It's a ${weather} day!`);
 // For multiple condition - use if/else if/else
 // For Simple condition - use ternary operator
 
-// =======================================================================
+// ======================================================================
+// Hii
