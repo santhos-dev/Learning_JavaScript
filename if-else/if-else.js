@@ -89,4 +89,3 @@ console.log(`It's a ${weather} day!`);
 // For Simple condition - use ternary operator
 
 // ======================================================================
-// Hii
