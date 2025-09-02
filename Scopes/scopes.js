@@ -1,4 +1,5 @@
 console.log("Scopes in JavaScript");
+// Global Scope, Local Scope, Block Scope
 // ---------------------------------------------------------------------------
 
 // Global Scope
@@ -42,5 +43,6 @@ if (true) {
 };
 
 // console.log(blockVar);   //  Thil will throw an error 
+
 
 // ---------------------------------------------------------------------------
