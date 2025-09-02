@@ -62,4 +62,3 @@ const calculateArea3 = (width, height) => width * height;
 console.log(calculateArea3(2, 3));
 
 // ---------------------------------------------------------------------------
-
